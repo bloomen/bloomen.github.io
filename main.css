@@ -13,6 +13,7 @@ p {
   display: -webkit-flex;
   max-width: 300px;
   margin: 10px auto;
+  text-align: center;
 }
 .index .links .link {
   margin: 0 10px;

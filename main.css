@@ -24,9 +24,9 @@ p {
   color: #939597;
 }
 .index .links .link a:hover .fa {
-  color: #00B800;
+  color: #87CCEEB;
   text-decoration: none;
-  border-bottom: 2px solid #00B800;
+  border-bottom: 2px solid #87CCEEB;
 }
 canvas {
     padding-left: 0;

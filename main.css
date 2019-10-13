@@ -11,9 +11,8 @@ p {
 }
 .index .links {
   display: -webkit-flex;
-  max-width: 300px;
+  max-width: 320px;
   margin: 10px auto;
-  text-align: center;
 }
 .index .links .link {
   margin: 0 10px;

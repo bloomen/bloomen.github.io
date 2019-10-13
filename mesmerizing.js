@@ -12,7 +12,7 @@ window.requestAnimFrame = (function(callback) {
 var NUM_BALL = 20;
 var BALL_HEIGHT = 50;
 var timeStep = 0;
-var radius = 3;
+var radius = 5;
 var color = '#87CEEB';
 var c, ctx;
 

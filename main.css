@@ -1,13 +1,18 @@
 body {
-  font-family: 'Merriweather', Georgia, serif;
+  font-family: "Lucida Console", Monaco, monospace;
 }
-p {
+.intro {
   margin: 10px auto;
-  padding: 6px 10px;
+  padding: 30px 5px;
   font-weight: 300;
-  font-size: 50px;
+  font-size: 34px;
   line-height: 65px;
   color: #767779
+}
+.intro .subintro {
+  font-size: 18px;    
+  line-height: 40px;
+  color: #87CEEB;
 }
 .index .links {
   display: -webkit-flex;
@@ -16,8 +21,8 @@ p {
 }
 .index .links .link {
   margin: 0 10px;
-  width: 120px;
-  font-size: 48px;
+  width: 80px;
+  font-size: 30px;
   display: inline-block;
 }
 .index .links .link a {
